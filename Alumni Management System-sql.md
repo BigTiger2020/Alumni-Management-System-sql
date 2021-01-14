@@ -7,7 +7,7 @@
 * Version: 1.0     
 
 * Vulnerable file:info_art.php    
-![image]()  
+![image](https://github.com/BigTiger2020/Alumni-Management-System-sql/blob/main/info_art.png)  
 
 * Sql Injection   
-![image]()  
+![image](https://github.com/BigTiger2020/Alumni-Management-System-sql/blob/main/SQL.png)  
